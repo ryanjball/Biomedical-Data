@@ -1,6 +1,8 @@
 # Machine Learning for Biomedical Data
 
-Biomedical Data Set Binary Classification, built by Dr. Henrique de Mota in Lyon,France.
+Biomedical Data Set Classification: KNN
+
+This data set was built by Dr. Henrique de Mota in Lyon,France.
 
 480 instances, 6 attributes: Abnormal or Normal
 
